@@ -1,7 +1,7 @@
-# FX System Documentation
+# FX - Effects 
 
 ## Overview
-The `FX` system is a dynamic and reactive JavaScript framework for managing objects and their interaction with DOM elements. It provides:
+The `FX` short `Effects` system is a dynamic and reactive JavaScript framework for managing objects and their interaction with DOM elements. It provides:
 - Dynamic object creation.
 - Seamless two-way binding between JavaScript objects and DOM nodes.
 - Intuitive DOM selection using the `$` property.
